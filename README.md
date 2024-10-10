@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Ali90922
-
+Hi there! I’m Ali, also known as @Ali90922 on GitHub.
 
 ### Dune Legacy: Enhanced Edition
 
